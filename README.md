@@ -11,3 +11,6 @@ Bienvenido al repositorio github del [OCDH](https://observacuba.org)...
 [Directorio de organizaciones de la sociedad civil cubana independiente](https://asociacionescuba.org) 
 
 [Derechos Económicose](https://derechoseconomicos.org) 
+
+#### Contactos
+EMAIL: sociedadcivilcuba@gmail.com
