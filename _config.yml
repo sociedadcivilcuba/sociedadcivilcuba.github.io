@@ -3,6 +3,6 @@ title: Sociedad Civil Cuba
 description: Repositorio de aplicaciones. Un servicio del Observatorio cubano de derechos humanos (OCDH)
 logo: "https://avatars0.githubusercontent.com/u/65537970?s=460&u=c88108e99c54f5608103a80bc12b9a1807b33ce2&v=4"
 show_downloads: "true"
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+-- github:
+-- zip_url: http://example.com/download.zip
+-- another_url: another value
