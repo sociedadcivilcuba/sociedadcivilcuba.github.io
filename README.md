@@ -4,13 +4,16 @@ El Observatorio cubano de Derechos Humanos (OCDH) es una organización sin ánim
 
 Bienvenido al repositorio github del [OCDH](https://observacuba.org)...
 
-### Algunos otros sitios
+### Algunos de nosestrs sitios web
+
+[Observatorio cubano de derechos humanos (OCDH)](https://observacuba.org) 
 
 [Observatorio de Derechos Sociales (ODS-Cuba)](https://derechossocialescuba.com) 
 
 [Directorio de organizaciones de la sociedad civil cubana independiente](https://asociacionescuba.org) 
 
-[Derechos Económicose](https://derechoseconomicos.org) 
+[Derechos Económicos en Cuba](https://derechoseconomicos.com) 
+
 
 #### Contactos
 EMAIL: sociedadcivilcuba@gmail.com
