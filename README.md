@@ -4,9 +4,17 @@ El Observatorio cubano de Derechos Humanos (OCDH) es una organización sin ánim
 
 Bienvenido al repositorio github del [OCDH](https://observacuba.org)...
 
-### Algunos de nosestrs sitios web
+
+### Aplicaciones
+
+[Covid-19](https://sociedadcivilcuba.github.io/covidcuba/) 
+
+
+### Algunos de nuestros sitios web
 
 [Observatorio cubano de derechos humanos (OCDH)](https://observacuba.org) 
+
+[Prisiones de Cuba](https://prisionescuba.com) 
 
 [Observatorio de Derechos Sociales (ODS-Cuba)](https://derechossocialescuba.com) 
 
